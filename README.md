@@ -1,2 +1,2 @@
 # EcjtuNetCodingGameV1
-CodingGame
+CodingGameV1
